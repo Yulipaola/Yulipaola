@@ -8,3 +8,8 @@ Mi nombre es Paola, peruana, mi color favorito el rosado, amo a los animales, me
 
 Para contactarme escribir al numerp 952365688.
 
+## Technologies
+
+- HTML
+- CCS
+- JS
